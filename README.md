@@ -34,5 +34,5 @@ PostgreSQL
 </h3>
 
  
-[Ссылка на портфолио](https://github.com/alsuhow/Portfolio)
+**[Ссылка на портфолио](https://github.com/alsuhow/Portfolio)**
 
